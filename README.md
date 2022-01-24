@@ -1,4 +1,5 @@
-# documentation
+# Axie.Taxi Documentation!
+
 ### Living document that describes the Axie.Taxi service
 
 ## What is Axie.Taxi
@@ -19,3 +20,7 @@ We rely on two basic concepts to make Axie.Taxi work:
 
 ## How to get help
 - Reach out on Discord! Find our team's [specific user IDs](https://axie.taxi/team) or join the Axie.Taxi Discord.
+
+
+## Contributing
+If there is any information you want to record here, feel free to submit a pull request!
