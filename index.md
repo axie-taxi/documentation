@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Axie.Taxi Documentation!
 
-You can use the [editor on GitHub](https://github.com/axie-taxi/documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is Axie.Taxi
+Axie.Taxi is a website that automates your guild team payments without seed phrases. Simply approve our Ronin address to operate for your team, and we'll automatically claim and transfer SLP as soon as it is available for all of your teams, in the background.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started
+- Please read the [checklist](https://github.com/axie-taxi/documentation/blob/main/checklist.md) before creating a guild.
+- Please read the [app instructions](https://github.com/axie-taxi/documentation/blob/main/using.md) to automate your teams.
 
-### Markdown
+## How to get help
+- Reach out on Discord! Find our team's [specific user IDs](https://axie.taxi/team) or join the Axie.Taxi Discord.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axie-taxi/documentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contributing
+If there is any information you want to record here, feel free to submit a pull request!
